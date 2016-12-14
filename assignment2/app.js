@@ -50,7 +50,7 @@ function ShoppingListCheckOffService() {
     {
             name: "Cookies",
             quantity: 3
-    },
+    }, 
     {
             name: "Peanuts",
             quantity: 2

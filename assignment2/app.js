@@ -45,12 +45,12 @@ function AlreadyBoughtController(ShoppingListCheckOffService) {
 function ShoppingListCheckOffService() {
 
   var service = this;
-
+ 
   var initialList = [
     {
             name: "Cookies",
             quantity: 3
-    }, 
+    },
     {
             name: "Peanuts",
             quantity: 2

@@ -58,6 +58,14 @@ function ShoppingListCheckOffService() {
     {
             name: "Cakes",
             quantity: 4
+    },
+    {
+            name: "Drinks",
+            quantity: 20
+    },
+    {
+            name: "Meat",
+            quantity: 5
     }
 
   ]
